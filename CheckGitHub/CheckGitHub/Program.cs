@@ -12,9 +12,7 @@ namespace CheckGitHub
         static void Main(string[] args)
         {
             Write("hey");
-            WriteLine("What?");
-            Write("HeyAgain");
-            
+ 
         }
     }
 }
